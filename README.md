@@ -1,7 +1,4 @@
-Here's an improved version of the Markdown for a GitHub profile README based on the image provided. It includes enhancements for clarity, organization, and visual appeal.
-
-```markdown
-# Hi 👋, I'm Pasindu Dulshan
+# Hi 👋, I'm Pankaj Kumar
 
 A **Passionate Frontend Web Developer** and **Coder** who loves to code!
 
@@ -62,4 +59,3 @@ A **Passionate Frontend Web Developer** and **Coder** who loves to code!
 ---
 
 Feel free to reach out or connect with me through any of my socials above! 🚀
-```
