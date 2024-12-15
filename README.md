@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pankaj Kumar
+# Hi 👋, I'm Pasindu Dulashan
 
 A **Passionate Frontend Web Developer** and **Coder** who loves to code!
 
