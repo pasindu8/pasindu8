@@ -50,7 +50,7 @@ Currently I'm looking for a **Software Engineering Internship** where I can impr
 
 <td width="42%" align="center">
 
-<img width="100%" src="">
+<img width="100%" src="https://raw.githubusercontent.com/pasindu8/pasindu8/main/ChatGPT%20Image%20Jul%2010,%202026,%2010_02_14%20PM.png">
 
 </td>
 
