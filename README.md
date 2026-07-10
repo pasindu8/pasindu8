@@ -1,62 +1,507 @@
-# Hi 👋, I'm Pasindu Dulashan
+<!-- ========================================================= -->
+<!--                 PASINDU DULSHAN GITHUB PROFILE             -->
+<!-- ========================================================= -->
 
-A **Passionate Frontend Web Developer** and **Coder** who loves to code!
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=33C3FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Pasindu+Dulshan;Frontend+Web+Developer;Software+Engineering+Undergraduate;Open+to+Software+Engineering+Internships;Building+Modern+Web+Applications" />
+</h1>
 
----
+<p align="center">
+  <a href="https://github.com/pasindu8">
+    <img src="https://komarev.com/ghpvc/?username=pasindu8&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge"/>
+  </a>
 
-## 🌐 Socials:
+  <img src="https://img.shields.io/github/followers/pasindu8?style=for-the-badge&logo=github&color=2563eb"/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pasindudulshan06/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pasindu-dulshan-354992332/)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@pasindudulshan)
+  <img src="https://img.shields.io/github/stars/pasindu8?style=for-the-badge&logo=github&color=f59e0b"/>
 
+  <img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
 
----
-
-## 💻 Tech Stack:
-
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=CSS3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=HTML5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=JavaScript&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=Netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=Vercel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?logo=TailwindCSS&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23007396.svg?logo=Java&logoColor=white)
-![npm](https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white)
+</p>
 
 ---
 
-## 📊 GitHub Stats:
+# 💻 Welcome to My GitHub
 
-### Stats Summary:
-- **Total Stars Earned**: 0  
-- **Total Commits**: 73  
-- **Total PRs**: 7  
-- **Total Issues**: 1  
-- **Contributions in Last Year**: 2  
+<table>
+<tr>
 
-![Stats Grade](https://img.shields.io/badge/Grade-A%2B-%2371DBE2.svg)
+<td width="58%" valign="top">
 
-### Contribution Activity:
-- **Total Contributions**: 247  
-- **Current Streak**: 4 days  
-- **Longest Streak**: 6 days  
+# 👋 About Me
 
-### Most Used Languages:
-- **HTML**: 76.26%  
-- **CSS**: 14.20%  
-- **JavaScript**: 9.50%  
+I'm **Pasindu Dulshan**, a passionate **Frontend Web Developer** and **Software Engineering Undergraduate** from **Sri Lanka 🇱🇰**.
+
+I enjoy transforming ideas into modern, responsive and user-friendly web applications while continuously improving my programming skills.
+
+Currently I'm looking for a **Software Engineering Internship** where I can improve my technical knowledge while contributing to real-world projects.
+
+### 🚀 Current Focus
+
+- 🌐 Frontend Web Development
+- ⚡ JavaScript & TailwindCSS
+- ☕ Java Programming
+- 🛠 UI/UX Improvements
+- 📱 Responsive Design
+- 🚀 Learning React
+- 💾 Backend Development
+
+</td>
+
+<td width="42%" align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284103-1dc7f53f-3d0e-4a7c-b514-1f6d2f0e0f05.gif">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🏆 GitHub Trophies:
+# ⚡ Quick Information
 
-![Commits](https://img.shields.io/badge/Commits-Hyper%20Committer-%23FF69B4)  
-![Repositories](https://img.shields.io/badge/Repositories-Mid%20Repo%20Creator-%233CB371)  
-![Issues](https://img.shields.io/badge/Issues-First%20Issue-%237B68EE)  
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-First%20PR-%23FFA500)
+```yaml
+Name        : Pasindu Dulshan
+Country     : Sri Lanka 🇱🇰
+Education   : BSc (Hons) Software Engineering
+Role        : Frontend Web Developer
+Interested  : Software Engineering
+Status      : Open For Internship
+Languages   : HTML CSS JavaScript Java PHP SQL
+Learning    : React Node.js MongoDB
+```
 
 ---
 
-Feel free to reach out or connect with me through any of my socials above! 🚀
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pasindu-dulshan-354992332/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/pasindu8/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@pasindudulshan">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:pasindu8@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+### 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react"/>
+
+</p>
+
+### ⚙ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,nodejs,express"/>
+
+</p>
+
+### 💾 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+### 💻 Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,c"/>
+
+</p>
+
+### 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,canva,npm"/>
+
+</p>
+
+---
+
+# 📊 Developer Matrix
+
+| Category | Level |
+|-----------|-------|
+| 🌐 HTML | ██████████████ 95% |
+| 🎨 CSS | █████████████ 92% |
+| ⚡ JavaScript | ███████████ 85% |
+| 💨 TailwindCSS | ████████████ 90% |
+| ☕ Java | █████████ 78% |
+| ⚙ PHP | █████████ 80% |
+| 🛢 MySQL | █████████ 82% |
+| ⚛ React | ███████ 60% |
+
+---
+
+> 💙 *"Code. Learn. Build. Repeat."*
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 📁 SwiftFileLink
+
+🔗 Secure File Sharing Platform
+
+- 📤 Upload & Download Files
+- 🔒 PIN Protected Files
+- ⏳ Auto Delete Feature
+- 📱 Responsive UI
+- ☁️ Cloud Deployment
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/>
+
+<br><br>
+
+<a href="https://github.com/pasindu8">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🖨 Digital Printing Management System
+
+Modern MERN Application
+
+- 👥 Customer Management
+- 📦 Order Management
+- 💰 Payment Tracking
+- 📊 Dashboard
+- 🔐 JWT Authentication
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+
+<br><br>
+
+<a href="https://github.com/pasindu8">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ✈ Flight Booking System
+
+- Booking System
+- Admin Dashboard
+- Java OOP
+- Database Integration
+
+<img src="https://skillicons.dev/icons?i=java,mysql"/>
+
+</td>
+
+<td>
+
+### 🚗 Vehicle Rental System
+
+- Vehicle Booking
+- Payment
+- Customer Management
+- Admin Panel
+
+<img src="https://skillicons.dev/icons?i=php,mysql,bootstrap"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏆 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pasindu8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu8&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Most Used Languages
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu8&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pasindu8&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pasindu8&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+| Year | Position |
+|------|----------|
+| 2025 | Frontend Developer |
+| 2025 | MERN Stack Developer |
+| Present | Software Engineering Undergraduate |
+| Present | Open for Internship |
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,nextjs,typescript"/>
+
+</p>
+
+### 🌱 Learning Roadmap
+
+```text
+HTML          ███████████████████ 100%
+
+CSS           █████████████████░ 95%
+
+JavaScript    ███████████████░░░ 85%
+
+TailwindCSS   ████████████████░░ 90%
+
+PHP           █████████████░░░░░ 80%
+
+Java          ████████████░░░░░░ 75%
+
+React         █████████░░░░░░░░░ 60%
+
+Node.js       ████████░░░░░░░░░░ 55%
+
+MongoDB       ███████░░░░░░░░░░░ 50%
+```
+
+---
+
+# 💡 Developer Quote
+
+> **"First, solve the problem. Then, write the code."**  
+> — *John Johnson*
+
+---
+
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-7405-4e0f-8f2d-0d6e4c6c8dcb.gif" width="400"/>
+
+</p>
+
+---
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pasindu8/pasindu8/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
+> ⚠️ **Note:** This animation requires the **Platane/snk GitHub Action** to be configured in your repository.
+
+---
+
+# 🎓 Education
+
+| 🎓 Qualification | 🏫 Institute | 📅 Status |
+| :--- | :--- | :---: |
+| BSc (Hons) Software Engineering | University | 🎓 Ongoing |
+| G.C.E. Advanced Level | Sri Lanka | ✅ Completed |
+| G.C.E. Ordinary Level | Sri Lanka | ✅ Completed |
+
+---
+
+# 📜 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Responsive_Web_Design-FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp"/>
+
+<img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=openjdk"/>
+
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=git"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Complete my Software Engineering degree
+- 🚀 Secure a Software Engineering Internship
+- 🌐 Build Full Stack MERN Applications
+- ⚛ Master React.js
+- 🟢 Learn Next.js
+- ☁ Deploy production-ready web apps
+- 📱 Build responsive and accessible UIs
+- 💻 Contribute to Open Source Projects
+- ⭐ Reach 500+ GitHub Contributions
+
+---
+
+# 🌍 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/pasindu8">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pasindu-dulshan-354992332/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/pasindu8/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://www.youtube.com/@pasindudulshan">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Random Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pasindu8&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pasindu8&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pasindu8&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pasindu8&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pasindu8&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# ❤️ Support My Work
+
+<p align="center">
+
+If you like my projects, consider giving them a ⭐ on GitHub.
+
+Every star motivates me to build more amazing projects!
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+💼 Open to Software Engineering Internship Opportunities
+
+📧 Email: **pasindu8@gmail.com**
+
+🌍 Sri Lanka 🇱🇰
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=140&section=footer"/>
+
+</p>
+
+<h2 align="center">
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</h2>
+
+<p align="center">
+
+<i>"Code with passion. Learn continuously. Build for impact."</i>
+
+</p>
+
