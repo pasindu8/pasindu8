@@ -19,7 +19,7 @@
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 # 💻 Welcome to My GitHub
 
@@ -50,14 +50,14 @@ Currently I'm looking for a **Software Engineering Internship** where I can impr
 
 <td width="42%" align="center">
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284103-1dc7f53f-3d0e-4a7c-b514-1f6d2f0e0f05.gif">
+<img width="100%" src="">
 
 </td>
 
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 # ⚡ Quick Information
 
@@ -72,7 +72,7 @@ Languages   : HTML CSS JavaScript Java PHP SQL
 Learning    : React Node.js MongoDB
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 # 🌐 Connect With Me
 
@@ -96,7 +96,7 @@ Learning    : React Node.js MongoDB
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 # 🚀 Tech Stack
 
@@ -140,7 +140,8 @@ Learning    : React Node.js MongoDB
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 📊 Developer Matrix
 
@@ -159,7 +160,8 @@ Learning    : React Node.js MongoDB
 
 > 💙 *"Code. Learn. Build. Repeat."*
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 🚀 Featured Projects
 
@@ -247,29 +249,30 @@ Modern MERN Application
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 🏆 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pasindu8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pasindu8&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=pasindu8&theme=navy-gear&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=45%2CFF00FF%2C0066FF&stroke=000000&ring=00FF00&fire=66FF33&currStreakNum=FFFF00&sideNums=FFFF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF)](https://git.io/streak-stats"/>
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 📊 Most Used Languages
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasindu8&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://skillicons.dev/icons?i=js,java,php,html,css,mysql"/>
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 📈 Contribution Graph
 
@@ -279,17 +282,22 @@ Modern MERN Application
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 🏅 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pasindu8&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Java-Programmer-orange?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Problem-Solver-green?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Quick-Learner-purple?style=for-the-badge&logo=github"/>
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 💼 Experience
 
@@ -300,7 +308,8 @@ Modern MERN Application
 | Present | Software Engineering Undergraduate |
 | Present | Open for Internship |
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 📚 Currently Learning
 
@@ -332,14 +341,16 @@ Node.js       ████████░░░░░░░░░░ 55%
 MongoDB       ███████░░░░░░░░░░░ 50%
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 💡 Developer Quote
 
 > **"First, solve the problem. Then, write the code."**  
 > — *John Johnson*
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 <p align="center">
 
@@ -347,9 +358,11 @@ MongoDB       ███████░░░░░░░░░░░ 50%
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 🐍 Contribution Snake
 
@@ -359,7 +372,8 @@ MongoDB       ███████░░░░░░░░░░░ 50%
 
 > ⚠️ **Note:** This animation requires the **Platane/snk GitHub Action** to be configured in your repository.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 🎓 Education
 
@@ -369,7 +383,8 @@ MongoDB       ███████░░░░░░░░░░░ 50%
 | G.C.E. Advanced Level | Sri Lanka | ✅ Completed |
 | G.C.E. Ordinary Level | Sri Lanka | ✅ Completed |
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 📜 Certifications
 
@@ -385,7 +400,8 @@ MongoDB       ███████░░░░░░░░░░░ 50%
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 🎯 2026 Goals
 
@@ -399,7 +415,8 @@ MongoDB       ███████░░░░░░░░░░░ 50%
 - 💻 Contribute to Open Source Projects
 - ⭐ Reach 500+ GitHub Contributions
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 🌍 Coding Profiles
 
@@ -423,7 +440,8 @@ MongoDB       ███████░░░░░░░░░░░ 50%
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 💬 Random Developer Quote
 
@@ -433,7 +451,8 @@ MongoDB       ███████░░░░░░░░░░░ 50%
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 📈 Profile Summary
 
@@ -459,7 +478,8 @@ MongoDB       ███████░░░░░░░░░░░ 50%
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # ❤️ Support My Work
 
@@ -471,7 +491,8 @@ Every star motivates me to build more amazing projects!
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 # 🤝 Let's Connect
 
@@ -485,7 +506,8 @@ Every star motivates me to build more amazing projects!
 
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 
 <p align="center">
 
