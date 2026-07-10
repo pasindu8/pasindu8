@@ -500,7 +500,7 @@ Every star motivates me to build more amazing projects!
 
 💼 Open to Software Engineering Internship Opportunities
 
-📧 Email: **pasindu8@gmail.com**
+📧 Email: **pasindudulshan0608@gmail.com**
 
 🌍 Sri Lanka 🇱🇰
 
@@ -509,11 +509,7 @@ Every star motivates me to build more amazing projects!
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 
-<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=140&section=footer"/>
-
-</p>
 
 <h2 align="center">
 
@@ -524,6 +520,11 @@ Every star motivates me to build more amazing projects!
 <p align="center">
 
 <i>"Code with passion. Learn continuously. Build for impact."</i>
+
+</p>
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=140&section=footer"/>
 
 </p>
 
